@@ -4,4 +4,4 @@
 
 # Diagrama de clases
 
-![](https://github.com/nico-op/Proyecto/blob/master/Inmersive%20checkers%20diagrama%20de%20clases.png)
+![](https://github.com/Crik845/Proyecto-inmersive-checkers/blob/main/Inmersive%20checkers%20diagrama%20de%20clases.png)
